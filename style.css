@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(rgb(47,150,163), rgb(48,62,143));
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif,Helvetica, Arial, sans-serif;
+}
+
+.container{
+    margin-top: 200px;
+}
+
+.row{
+    margin-top: 100px;
+}
+
+.btn{
+    color: white;
+    font-size: x-large;
+}
+
